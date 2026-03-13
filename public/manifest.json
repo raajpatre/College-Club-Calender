@@ -1,0 +1,17 @@
+{
+    "name": "NST Club Calendar",
+    "short_name": "NST Calendar",
+    "description": "Official Calendar for NST Club events & reservations.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#050505",
+    "theme_color": "#050505",
+    "icons": [
+        {
+            "src": "/nst_logo.png",
+            "sizes": "192x192 512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
